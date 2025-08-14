@@ -1,0 +1,13 @@
+#Arduino compiler files
+Arduino/*.bin
+Arduino/*.hex
+Arduino/*.o
+
+#TI CCS Project boilerplate code
+TI/Debug/*
+TI/targetConfigs/*
+TI/ticlang/*
+TI/*.cmd
+
+#Clock initialization code written by Valvano
+TI/Clock.c
