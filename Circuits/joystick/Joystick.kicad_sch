@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "f9707f90-bb61-4ea5-b6d2-b98e98a11977")
 	(paper "A4")
+	(title_block
+		(title "Joystick")
+	)
 	(lib_symbols
 		(symbol "Connector:USB_B_Micro"
 			(pin_names

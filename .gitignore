@@ -11,3 +11,7 @@ TI/*.cmd
 
 #Clock initialization code written by Valvano
 TI/Clock.c
+
+#Kicad files
+Circuits/car/car-backups/*
+Circuits/joystick/Joystick-backups/*
